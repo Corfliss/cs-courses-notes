@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "7420b12f184e086d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8d8ec9dabaf0d6",
+        "type": "split",
+        "children": [
+          {
+            "id": "3d375ccfd20bb4bb",
+            "type": "leaf",
+            "dimension": 50.95238095238094,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human-Computer Interaction/Establishing Requirements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e12c1a5553f002c",
+            "type": "leaf",
+            "dimension": 49.047619047619044,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41915be525c8fef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "702fba9f9c972852",
+        "type": "tabs",
+        "dimension": 38.761904761904766,
+        "children": [
+          {
+            "id": "fe5d6cd14a7884d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec710fb1bd6a9391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "284789bd37839061",
+        "type": "tabs",
+        "dimension": 28.476190476190478,
+        "children": [
+          {
+            "id": "ff71ba4fb3e7f2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Base Operations/To Do List.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e599468ba3e2195",
+        "type": "tabs",
+        "dimension": 32.761904761904766,
+        "children": [
+          {
+            "id": "fbab6dfafba2bb89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286
+  },
+  "right": {
+    "id": "2f021992ae026c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4fce75d22df489a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5597ff167e9ee57b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Human-Computer Interaction/Establishing Requirements.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d375ccfd20bb4bb",
+  "lastOpenFiles": [
+    "Human-Computer Interaction/Establishing Requirements.md",
+    "Advanced Programming/From Traditional to Container.md",
+    "Advanced Programming/Advanced Programming.md",
+    "_Zettelkasten Inbox/Untitled.md",
+    "_Zettelkasten Inbox/250122 023919 +0700.md",
+    "_Zettelkasten Template/Zettelkasten Template.md",
+    "_Zettelkasten Inbox/100222 134604 +0700.md",
+    "Computer Networks/Computer Networks.md",
+    "Human-Computer Interaction/Human-Computer Interaction.md",
+    "Computer Networks/Video Streaming and Content Distribution Network (CDN).md"
+  ]
+}

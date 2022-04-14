@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "attachmentFolderPath": "./",
+  "spellcheckLanguages": [
+    "en-US",
+    "id"
+  ],
+  "spellcheck": true,
+  "showLineNumber": true
+}
