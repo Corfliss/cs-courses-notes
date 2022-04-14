@@ -15,14 +15,6 @@
       "key": "Delete"
     }
   ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-mind-map:app:markmap-preview": [
     {
       "modifiers": [
@@ -70,6 +62,15 @@
         "Alt"
       ],
       "key": "/"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
     }
   ]
 }

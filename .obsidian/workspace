@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus 1/README.md",
-            "mode": "source",
+            "file": "Operational/_Zettelkasten Template/Zettelkasten Template.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -42,9 +42,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
+                "query": "README",
+                "matchingCase": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Base Operations/To Do List.md",
+                "file": "Operational/_Base Operations/To Do List.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 361
   },
   "right": {
     "id": "2f021992ae026c8e",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 1/README.md"
+                "file": "Operational/_Zettelkasten Template/Zettelkasten Template.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "67ce6c96f861ceeb",
   "lastOpenFiles": [
-    "Calculus 1/README.md",
-    "Semester 5/Semester 5.md",
-    "Semester 4/Semester 4.md",
-    "Semester 3/Semester 3.md",
-    "Semester 2/Semester 2.md",
-    "Root.md",
+    "Operational/_Zettelkasten Template/Zettelkasten Template.md",
+    "Operational/_Zettelkasten Inbox/250122 023919 +0700.md",
+    "Operational/_Zettelkasten Inbox/100222 134604 +0700.md",
+    "Operational/_Base Operations/Log.md",
+    "Semester 5/Computer and Society/Computer and Society.md",
+    "Semester 3/Database/SQL - Data Definition.md",
+    "README.md",
     "Semester 1/Semester 1.md",
-    "Human-Computer Interaction/Establishing Requirements.md",
-    "Advanced Programming/From Traditional to Container.md",
-    "Advanced Programming/Advanced Programming.md"
+    "Semester 5/Semester 5.md",
+    "Semester 4/Semester 4.md"
   ]
 }
