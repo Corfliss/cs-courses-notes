@@ -14,12 +14,6 @@ To make it simple and easy to remind in case if I forget: ==To reinforce my know
 ## How The Vault is Documented
 The vault will be documented in each semester according to the mandatory syllabus of International Undergraduate Program for computer science major of Universitas Indonesia. There are 5 semesters for the mandatory courses and each will contain 5 courses.
 
-## Permission To Share
-You have the right to share this vault to anyone, however, attribution is required in case if there are people with malicious intent to copy and paste the work and then making it their own.
-
-## Final Note
-As in the culture of gaming: GLHF (Good luck, have fun).
-
 # Roadmap of The Major
 ![[CSUISyllabus.png]]
 
@@ -30,3 +24,12 @@ Click in any semester that you want to learn.
 * [[Semester 3]]
 * [[Semester 4]]
 * [[Semester 5]]
+
+## Permission To Share
+You have the right to share this vault to anyone, however, attribution is required in case if there are people with malicious intent to copy and paste the work and then making it their own.
+
+## Final Note
+As in the culture of gaming: GLHF (Good luck, have fun).
+
+Regards,
+Fauzan "Corfliss" Hanandito

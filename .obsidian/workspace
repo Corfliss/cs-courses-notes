@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operational/_Zettelkasten Template/Zettelkasten Template.md",
+            "file": "README.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operational/_Zettelkasten Template/Zettelkasten Template.md"
+                "file": "README.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "67ce6c96f861ceeb",
   "lastOpenFiles": [
+    "README.md",
+    "Semester 3/Database/Basic SQL Query.md",
+    "Semester 3/Database/Database.md",
+    "Semester 5/Computer and Society/Computer and Society.md",
     "Operational/_Zettelkasten Template/Zettelkasten Template.md",
     "Operational/_Zettelkasten Inbox/250122 023919 +0700.md",
     "Operational/_Zettelkasten Inbox/100222 134604 +0700.md",
     "Operational/_Base Operations/Log.md",
-    "Semester 5/Computer and Society/Computer and Society.md",
     "Semester 3/Database/SQL - Data Definition.md",
-    "README.md",
-    "Semester 1/Semester 1.md",
-    "Semester 5/Semester 5.md",
-    "Semester 4/Semester 4.md"
+    "Semester 1/Semester 1.md"
   ]
 }
