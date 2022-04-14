@@ -4,7 +4,7 @@
   "commitDateFormat": "YYYY.MM.DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPullInterval": 0,
-  "autoPullOnBoot": true,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -17,5 +17,5 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "E:\\Documents\\Markdown\\No Git\\CS Courses Notes by Corfliss"
+  "basePath": ""
 }
