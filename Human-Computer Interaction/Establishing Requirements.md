@@ -6,7 +6,7 @@ Zettelkasten: 2022.04.11 08:22:21 +0700
 ### What
 What is needed to accomplish in UX research?
 	* Understanding user, task, and usage context as a whole
-	* Results several stable requiremets
+	* Results several stable requirements
 
 # Types of Requirements
 # Data Collecting for Requirements
