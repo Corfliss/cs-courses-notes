@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "67ce6c96f861ceeb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
+        "id": "4a6852a74079f19d",
+        "type": "split",
+        "children": [
+          {
+            "id": "67ce6c96f861ceeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8227f18927b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -106,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md"
               }
             }
           }
@@ -119,15 +134,15 @@
   },
   "active": "67ce6c96f861ceeb",
   "lastOpenFiles": [
+    "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
+    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
+    "Operational/_Base Operations/To Do List.md",
     "README.md",
     "Semester 3/Database/Basic SQL Query.md",
     "Semester 3/Database/Database.md",
     "Semester 5/Computer and Society/Computer and Society.md",
     "Operational/_Zettelkasten Template/Zettelkasten Template.md",
     "Operational/_Zettelkasten Inbox/250122 023919 +0700.md",
-    "Operational/_Zettelkasten Inbox/100222 134604 +0700.md",
-    "Operational/_Base Operations/Log.md",
-    "Semester 3/Database/SQL - Data Definition.md",
-    "Semester 1/Semester 1.md"
+    "Operational/_Zettelkasten Inbox/100222 134604 +0700.md"
   ]
 }
