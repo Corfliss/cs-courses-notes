@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human-Computer Interaction/Establishing Requirements.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human-Computer Interaction/Establishing Requirements.md"
+                "file": "README.md"
               }
             }
           }
@@ -136,6 +136,8 @@
   },
   "active": "3d375ccfd20bb4bb",
   "lastOpenFiles": [
+    "README.md",
+    "Root.md",
     "Human-Computer Interaction/Establishing Requirements.md",
     "Advanced Programming/From Traditional to Container.md",
     "Advanced Programming/Advanced Programming.md",
@@ -143,8 +145,6 @@
     "_Zettelkasten Inbox/250122 023919 +0700.md",
     "_Zettelkasten Template/Zettelkasten Template.md",
     "_Zettelkasten Inbox/100222 134604 +0700.md",
-    "Computer Networks/Computer Networks.md",
-    "Human-Computer Interaction/Human-Computer Interaction.md",
-    "Computer Networks/Video Streaming and Content Distribution Network (CDN).md"
+    "Computer Networks/Computer Networks.md"
   ]
 }
