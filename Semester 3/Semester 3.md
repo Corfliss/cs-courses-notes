@@ -8,4 +8,4 @@ Zettelkasten: 140122 010814 +0700
 * [[Statistics and Probabilities]]
 * [[Platform-based Development]]
 
-Back to [[Root]]
+Back to [[README]]

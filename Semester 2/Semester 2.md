@@ -8,4 +8,4 @@ Zettelkasten: 140122 010801 +0700
 * [[Introduction to Computer Organization]]
 * [[Programming Foundation 2]]
 
-Back to [[Root]]
+Back to [[README]]

@@ -8,4 +8,4 @@ Zettelkasten: 140122 010804 +0700
 * [[Linear Algebra]]
 * [[Programming Foundation 1]]
 
-Back to [[Root]]
+Back to [[README]]

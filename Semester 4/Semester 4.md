@@ -8,4 +8,4 @@ Zettelkasten: 170122 025427 +0700
 * [[Introduction to AI and Data Science]]
 * [[Software Engineering]]
 
-Back to [[Root]]
+Back to [[README]]

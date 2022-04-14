@@ -8,4 +8,4 @@ Zettelkasten: 170122 025559 +0700
 * [[Scientifc Writing and Research Methodology]]
 * [[Software Engineering Projects]]
 
-Back to [[Root]]
+Back to [[README]]
