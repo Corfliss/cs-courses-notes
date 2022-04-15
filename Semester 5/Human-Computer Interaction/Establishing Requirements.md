@@ -60,7 +60,6 @@ What is needed to accomplish in UX research?
 	* User experience goal: How "wow" is it?
 
 # Data Collecting for Requirements
-## Techniques
 * Interview
 	* Can use property like scenario and prototype
 	* Good in exploring issues
@@ -76,7 +75,19 @@ What is needed to accomplish in UX research?
 * Similar Product Research
 	* Good to push requirements-defining
 * Direct observation
-	* 
+	* Have a complete picture about the task at hand
+	* Good for exploring issues
+	* Development team can discuss with the user
+* Indirect observation
+	* Rarely use for defining requirements
+	* Good for logging task that has been done
+* Studying documentation
+	* Procedure and rules often written on documentation
+	* Use when stakeholder don't have enough time
+	* Good source for understanding certain task
+
+# Contextual Inquiry
+* 
 # Task Description: Scenario, Use Case, and Essential Use Case
 # Task Analysis
 
