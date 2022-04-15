@@ -62,6 +62,20 @@ What is needed to accomplish in UX research?
 # Data Collecting for Requirements
 ## Techniques
 * Interview
+	* Can use property like scenario and prototype
+	* Good in exploring issues
+	* Dev can discuss with the users
+* Focus Groups
+	* Can be about group interview
+	* Good to reach agreements about requirements
+	* Risk of individual domination exists
+* Questionnaire
+	* Generally used with other data collecting technique
+	* Can gives quantitative and qualitative data
+	* Good to answer specific questions from many respondents
+* Similar Product Research
+	* Good to push requirements-defining
+* Direct observation
 	* 
 # Task Description: Scenario, Use Case, and Essential Use Case
 # Task Analysis
