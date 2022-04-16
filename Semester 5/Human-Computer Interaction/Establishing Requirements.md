@@ -86,12 +86,47 @@ What is needed to accomplish in UX research?
 	* Use when stakeholder don't have enough time
 	* Good source for understanding certain task
 
-# Contextual Inquiry
-* I
-# Task Description: Scenario, Use Case, and Essential Use Case
+## Contextual Inquiry
+* Interview that is positioning the user as expert and researcher as apprentice
+* Done in the user workstation for 2-3 hours, perhaps longer.
+
+### 4 Principles of Contextual Inquiry
+* Context: observe the user workstation and what happened there
+* Cooperation: user and researcher collaborate
+* Interpretation: done together by both user and researcher
+* Focus: focus on the project to understand what needs attention
+
+## Issue in Data Collecting
+* Identifying and involving respondent
+* Making sure respondent is the real user
+* Change impact on business and environment
+* Balance function and usability
+* Stakeholder domination might happen
+* Inter parties communication
+* Domain knowledge that is distributed and implicit
+* Main participant availability
+
+# Task Description
+## Scenario
+* Usually written in a paragraph
+* Contains details in informal narrative
+* Linking persona and the persona's goal.
+
+## Use Cases
+* Grasping the interaction in system concept
+* Can be represented in a graph
+* Defined the essentials or in details
+
 # Task Analysis
+* Used to make an understanding on new system usage
+* Used to investigate current usage
+* Things to consider
+	* What the user wants to achieve?
+	* How to achieve it?
+	* How to do it?
+
+## Hierarchical Task Analysis
+* To do one activity, it can be chunked into many sub-activity.
 
 # Reference
 * INTERACTION DESIGN: Beyond Human-computer Interaction 5th Edition
-
-#ongoing 

@@ -72,5 +72,13 @@
       ],
       "key": "Z"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": ";"
+    }
   ]
 }

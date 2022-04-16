@@ -4,32 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "06f6f0d2b6bfb1af",
-        "type": "split",
-        "children": [
-          {
-            "id": "67ce6c96f861ceeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3c23e45cd048229",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "b3c23e45cd048229",
+        "type": "leaf",
+        "dimension": 11.24859392575928,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "3ee354ebf3e66bf2",
+        "type": "leaf",
+        "dimension": 88.75140607424072,
+        "state": {
+          "type": "mindmap",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -105,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 100
   },
   "right": {
     "id": "2f021992ae026c8e",
@@ -132,7 +127,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67ce6c96f861ceeb",
+  "active": "b3c23e45cd048229",
   "lastOpenFiles": [
     "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
     "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
