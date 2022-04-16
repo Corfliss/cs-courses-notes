@@ -87,7 +87,7 @@ What is needed to accomplish in UX research?
 	* Good source for understanding certain task
 
 # Contextual Inquiry
-* 
+* I
 # Task Description: Scenario, Use Case, and Essential Use Case
 # Task Analysis
 
