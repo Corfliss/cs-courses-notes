@@ -11,5 +11,6 @@ Zettelkasten: 220122 051549 +0700
 * [[Data Collecting for Interactive Design]]
 * [[Analysis, Interpretation, and Data Presentation]]
 * [[Establishing Requirements]]
+* [[Persona and Scenario]]
 
 Back to [[Semester 5]]
