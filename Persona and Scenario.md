@@ -60,8 +60,76 @@ Zettelkasten: 2022.04.18 08:11:37 +0700
 * It must really describe the real user
 * It must be based on understanding about the users, purposes, and priorities.
 
-## Research and Contextual
+## Research and Task Analysis Methods
+* Contextual interview
+* Individual interview
+* Survey
+* Focus group
+* Usability testing
+
+## Research and Data Collecting
+1. Research the user
+2. Specify the research
+3. Brainstorming
+4. Refine
+5. Make realistic personas
+6. Share personas to test
+
+## Persona Basic Elements
+* Technology Comfort Level: on using tech
+* Motivation: on why the users want to reach their goal
+* Attitudes: on the behavior of users
+
+## Effective Persona
+* Representative
+* Clear description
+* Description meets reality
+* Focus on major needs
+* Focus on important users
+* Focus on current state
+
 # Issues in Making Persona
+* Respondent has little time, like saying "Not so fast, Ferguso!"
+* Data availability
+	* No end user: persona made with user experts
+	* Difficulty in prioritizing features
+* Quantity
+	* Not sure how many personas should be made and how deep
+	* Persona number depends on target audiences
+	* Complexity depends on research done
+	* Generally, team starts to use many persona for every individual users groups
+	* After that, personas will be eliminated until one primary persona remains
+	* Secondary persona considered after primary persona
+
+## Evaluating Persona
+* What persona that is made based on the user interviews?
+* Is the persona explains the product-relevancy?
+* And also high-level key goal?
+* Are persona look realistic for interacting with end user?
+* Are each persona is unique to each other?
+* Can persona can be used for designer team to determine design?
+
+## Types of Persona
+### Qualitative Persona
+* Made from qualitative research
+* Involving theme identification and grouping
+* From open-ended interview narration
+
+ ### Statistical Persona
+ * Made from quantitative and qualitative research
+ * Involving exploration and qualitative
+ * Followed by quantitative confirmation with statistic test
+
+### Proto Persona
+* Made from secondary research and from UX designers assumption
+
+Design Persona
+* Focus on user goals, current behavior, and pain points
+
+Marketing Persona
+* Focus on demographic information, behavior buying, preference and motivation
+
+
 # What is Scenario
 # Types of Scenario
 # Scenario Usage
