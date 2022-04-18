@@ -123,12 +123,17 @@ Zettelkasten: 2022.04.18 08:11:37 +0700
 ### Proto Persona
 * Made from secondary research and from UX designers assumption
 
-Design Persona
+### Design Persona
 * Focus on user goals, current behavior, and pain points
 
-Marketing Persona
+### Marketing Persona
 * Focus on demographic information, behavior buying, preference and motivation
 
+## Points to Ponder
+* Personas number
+* Goals and frustrations of some personas accommodate on a product
+
+#ongoing
 
 # What is Scenario
 # Types of Scenario
