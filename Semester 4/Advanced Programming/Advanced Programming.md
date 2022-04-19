@@ -12,4 +12,6 @@ Zettelkasten: 220122 024749 +0700
 * [[Asynchronous Programming]]
 * [[The Twelve-Factor App Methodology]]
 * [[From Traditional to Container]]
+* [[Introduction to Design Pattern on Advanced Programming]]
+
 Back to [[Semester 4]]

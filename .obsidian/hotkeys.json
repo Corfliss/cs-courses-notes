@@ -64,21 +64,20 @@
       "key": "/"
     }
   ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": ";"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
     }
   ]
 }

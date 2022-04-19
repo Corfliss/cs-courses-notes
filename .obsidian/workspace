@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persona and Scenario.md",
+                "file": "Operational/_Zettelkasten Inbox/100222 134604 +0700.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Persona and Scenario.md"
+                "file": "Operational/_Zettelkasten Inbox/100222 134604 +0700.md"
               }
             }
           }
@@ -134,15 +134,15 @@
   },
   "active": "b3c23e45cd048229",
   "lastOpenFiles": [
-    "Persona and Scenario.md",
+    "Operational/_Zettelkasten Inbox/100222 134604 +0700.md",
+    "Operational/_Zettelkasten Inbox/250122 023919 +0700.md",
+    "Operational/_Zettelkasten Template/Zettelkasten Template.md",
+    "Semester 4/Advanced Programming/Introduction to Design Pattern on Advanced Programming.md",
+    "Semester 4/Advanced Programming/Advanced Programming.md",
+    "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
     "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
     "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
     "Operational/_Base Operations/To Do List.md",
-    "README.md",
-    "Semester 3/Database/Basic SQL Query.md",
-    "Semester 3/Database/Database.md",
-    "Semester 5/Computer and Society/Computer and Society.md",
-    "Operational/_Zettelkasten Template/Zettelkasten Template.md",
-    "Operational/_Zettelkasten Inbox/250122 023919 +0700.md"
+    "README.md"
   ]
 }
