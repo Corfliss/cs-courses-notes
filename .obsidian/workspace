@@ -4,32 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c95c3bde292ae849",
-        "type": "split",
-        "children": [
-          {
-            "id": "b3c23e45cd048229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operational/_Zettelkasten Inbox/100222 134604 +0700.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f1eca9251178f7",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "c2f1eca9251178f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten Template/Zettelkasten Template.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -77,13 +62,8 @@
             "id": "ff71ba4fb3e7f2bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operational/_Base Operations/To Do List.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operational/_Zettelkasten Inbox/100222 134604 +0700.md"
+                "file": "Zettelkasten Template/Zettelkasten Template.md"
               }
             }
           }
@@ -132,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3c23e45cd048229",
+  "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
-    "Operational/_Zettelkasten Inbox/100222 134604 +0700.md",
-    "Operational/_Zettelkasten Inbox/250122 023919 +0700.md",
-    "Operational/_Zettelkasten Template/Zettelkasten Template.md",
+    "Zettelkasten Template/Zettelkasten Template.md",
+    "README.md",
+    "Zettelkasten Inbox/100222 134604 +0700.md",
+    "Zettelkasten Inbox/250122 023919 +0700.md",
+    "Operational/Zettelkasten Inbox/100222 134604 +0700.md",
+    "Operational/Zettelkasten Template/Zettelkasten Template.md",
+    "Operational/Zettelkasten Inbox/250122 023919 +0700.md",
     "Semester 4/Advanced Programming/Introduction to Design Pattern on Advanced Programming.md",
     "Semester 4/Advanced Programming/Advanced Programming.md",
-    "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
-    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
-    "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
-    "Operational/_Base Operations/To Do List.md",
-    "README.md"
+    "Semester 5/Human-Computer Interaction/Persona and Scenario.md"
   ]
 }

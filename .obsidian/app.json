@@ -5,7 +5,7 @@
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
   "vimMode": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Operational/Attachment",
   "spellcheckLanguages": [
     "en-US",
     "id"
