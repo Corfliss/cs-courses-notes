@@ -1,5 +1,5 @@
 {
-  "format": "YYYY.MM.DD HH:mm:ss ZZ",
+  "format": "YYYY.MM.DD HHmmss ZZ",
   "template": "Zettelkasten Template/Zettelkasten Template",
   "folder": "Zettelkasten Inbox"
 }

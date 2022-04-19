@@ -1,1 +1,3 @@
-Zettelkasten notes
+---
+Zettelkasten: {{date}} {{time}}
+---

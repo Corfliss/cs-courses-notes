@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten Template/Zettelkasten Template.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten Template/Zettelkasten Template.md"
+                "file": "README.md"
               }
             }
           }
@@ -114,15 +114,15 @@
   },
   "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
-    "Zettelkasten Template/Zettelkasten Template.md",
     "README.md",
+    "Zettelkasten Inbox/2022.04.19 134131 +0700.md",
+    "Zettelkasten Inbox/2022.04.19 134601 +0700.md",
+    "Zettelkasten Template/Zettelkasten Template.md",
+    "Template/Template.md",
     "Zettelkasten Inbox/100222 134604 +0700.md",
     "Zettelkasten Inbox/250122 023919 +0700.md",
     "Operational/Zettelkasten Inbox/100222 134604 +0700.md",
     "Operational/Zettelkasten Template/Zettelkasten Template.md",
-    "Operational/Zettelkasten Inbox/250122 023919 +0700.md",
-    "Semester 4/Advanced Programming/Introduction to Design Pattern on Advanced Programming.md",
-    "Semester 4/Advanced Programming/Advanced Programming.md",
-    "Semester 5/Human-Computer Interaction/Persona and Scenario.md"
+    "Operational/Zettelkasten Inbox/250122 023919 +0700.md"
   ]
 }
