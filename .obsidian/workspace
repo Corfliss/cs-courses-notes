@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Zettelkasten Inbox/2022.04.21 141920 +0700.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Zettelkasten Inbox/2022.04.21 141920 +0700.md"
               }
             }
           }
@@ -114,6 +114,7 @@
   },
   "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
+    "Zettelkasten Inbox/2022.04.21 141920 +0700.md",
     "README.md",
     "Zettelkasten Inbox/2022.04.19 134131 +0700.md",
     "Zettelkasten Inbox/2022.04.19 134601 +0700.md",
@@ -122,7 +123,6 @@
     "Zettelkasten Inbox/100222 134604 +0700.md",
     "Zettelkasten Inbox/250122 023919 +0700.md",
     "Operational/Zettelkasten Inbox/100222 134604 +0700.md",
-    "Operational/Zettelkasten Template/Zettelkasten Template.md",
-    "Operational/Zettelkasten Inbox/250122 023919 +0700.md"
+    "Operational/Zettelkasten Template/Zettelkasten Template.md"
   ]
 }

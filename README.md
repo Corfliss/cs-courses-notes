@@ -3,7 +3,7 @@ Zettelkasten: 140122 002659 +0700
 ---
 
 # Welcome to CS Courses Notes by Corfliss
-Hello and welcome to this vault, it is a delighful to have you here.
+Hello and welcome to this vault, it is a delightful to have you here.
 
 ## About Me
 My name is Fauzan Hanandito, although you might know me better as Corfliss. At the time I am writing this note. I am in a semester break between semester 5 and 6. My major is in computer science at Universitas Indonesia. In this vault, you will find the resources of everything I learned in my major that I made during my livestream at [my Twitch channel](https://www.twitch.tv/corfliss).
