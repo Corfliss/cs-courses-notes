@@ -163,7 +163,7 @@ Zettelkasten: 2022.04.18 08:11:37 +0700
 * Explaining how the system supports the designed goal-oriented scenario
 
 # Scenario Usage
-# For Designing Web
+## For Designing Web
 * Explain what is expected to achieve from persona by visiting website?
 * Which characteristics of the persona that helps or prevent the user interaction?
 
