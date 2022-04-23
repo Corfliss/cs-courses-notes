@@ -4,17 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f1eca9251178f7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten Inbox/2022.04.21 141920 +0700.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "add48e9c383d49ba",
+        "type": "split",
+        "children": [
+          {
+            "id": "c2f1eca9251178f7",
+            "type": "leaf",
+            "dimension": 19.047619047619047,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58693a8fcf1f0d7b",
+            "type": "leaf",
+            "dimension": 80.95238095238095,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -101,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten Inbox/2022.04.21 141920 +0700.md"
+                "file": "Semester 5/Human-Computer Interaction/Persona and Scenario.md"
               }
             }
           }
@@ -114,6 +131,8 @@
   },
   "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
+    "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
+    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
     "Zettelkasten Inbox/2022.04.21 141920 +0700.md",
     "README.md",
     "Zettelkasten Inbox/2022.04.19 134131 +0700.md",
@@ -121,8 +140,6 @@
     "Zettelkasten Template/Zettelkasten Template.md",
     "Template/Template.md",
     "Zettelkasten Inbox/100222 134604 +0700.md",
-    "Zettelkasten Inbox/250122 023919 +0700.md",
-    "Operational/Zettelkasten Inbox/100222 134604 +0700.md",
-    "Operational/Zettelkasten Template/Zettelkasten Template.md"
+    "Zettelkasten Inbox/250122 023919 +0700.md"
   ]
 }

@@ -133,8 +133,53 @@ Zettelkasten: 2022.04.18 08:11:37 +0700
 * Personas number
 * Goals and frustrations of some personas accommodate on a product
 
-#ongoing
+# Scenario
+## What Is It?
+* Narrative on explaining the context of the system usage by personas
+* Explain sequence of activity done by the personas and the behavior of them while doing it.
+* Consist of the goals of the personas
+* A bridge between persona and goal
 
-# What is Scenario
+## Things to Explain in Scenario
+* Who is the users?
+* Why the users come to our website?
+* What is their purpose?
+* How the user get their goals?
+
 # Types of Scenario
+## Task-based Scenario
+* Only cover what the users wanted to do
+* Not containing the information on how to get it
+* Good for defining web architecture and its content
+
+ ## Elaborated Scenario
+ * In more details, like making user characteristics
+ * Helps designing interactive system
+ * Good for content, functionality, and site behavior
+
+## Full Scale Scenario
+* Consist of steps to finish the task
+* Steps can be what the users do right now or the next step
+* Explaining how the system supports the designed goal-oriented scenario
+
 # Scenario Usage
+# For Designing Web
+* Explain what is expected to achieve from persona by visiting website?
+* Which characteristics of the persona that helps or prevent the user interaction?
+
+## Usability Testing
+* Ask how they do it
+* Why they want to visit the system
+* Ask what they do
+* Only helps user understanding context
+* Compare scenario 
+
+# Storyboard
+* Act as visual explanation on user story or scenario
+* Easier to understand
+* As a tool to understand user needs comprehensively
+
+## Steps
+* Sketch on a simple paper
+* Template
+* Graphic Design Tool
