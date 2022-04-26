@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
+                "file": "Semester 5/Numerical Analysis/Introduction to Numerical Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 5/Human-Computer Interaction/Persona and Scenario.md"
+                "file": "Semester 5/Numerical Analysis/Introduction to Numerical Analysis.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
+    "Semester 5/Numerical Analysis/Introduction to Numerical Analysis.md",
     "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
     "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
     "Zettelkasten Inbox/2022.04.21 141920 +0700.md",
@@ -139,7 +140,6 @@
     "Zettelkasten Inbox/2022.04.19 134601 +0700.md",
     "Zettelkasten Template/Zettelkasten Template.md",
     "Template/Template.md",
-    "Zettelkasten Inbox/100222 134604 +0700.md",
-    "Zettelkasten Inbox/250122 023919 +0700.md"
+    "Zettelkasten Inbox/100222 134604 +0700.md"
   ]
 }
