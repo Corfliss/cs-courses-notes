@@ -5,7 +5,7 @@
   "showFrontmatter": true,
   "alwaysUpdateLinks": true,
   "vimMode": false,
-  "attachmentFolderPath": "Operational/Attachment",
+  "attachmentFolderPath": "Attachment/Quick Zettelkasten",
   "spellcheckLanguages": [
     "en-US",
     "id"
