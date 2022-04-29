@@ -12,5 +12,6 @@ Zettelkasten: 220122 051549 +0700
 * [[Analysis, Interpretation, and Data Presentation]]
 * [[Establishing Requirements]]
 * [[Persona and Scenario]]
+* [[Information Architecture and Prototype]]
 
 Back to [[Semester 5]]

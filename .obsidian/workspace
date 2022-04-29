@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f1eca9251178f7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten Inbox/2022.04.26 130635 +0700.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "d8ce2385a3dfe251",
+        "type": "split",
+        "children": [
+          {
+            "id": "c2f1eca9251178f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Architecture and Prototype.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e90d3fa7494e2488",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten Inbox/2022.04.26 130635 +0700.md"
+                "file": "Information Architecture and Prototype.md"
               }
             }
           }
@@ -114,15 +129,15 @@
   },
   "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
+    "Information Architecture and Prototype.md",
+    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
     "Zettelkasten Inbox/2022.04.26 130635 +0700.md",
     "Semester 5/Numerical Analysis/Introduction to Numerical Analysis.md",
     "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
-    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
     "Zettelkasten Inbox/2022.04.21 141920 +0700.md",
     "README.md",
     "Zettelkasten Inbox/2022.04.19 134131 +0700.md",
     "Zettelkasten Inbox/2022.04.19 134601 +0700.md",
-    "Zettelkasten Template/Zettelkasten Template.md",
-    "Template/Template.md"
+    "Zettelkasten Template/Zettelkasten Template.md"
   ]
 }
