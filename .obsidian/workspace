@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Architecture and Prototype.md",
+                "file": "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Architecture and Prototype.md"
+                "file": "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md"
               }
             }
           }
@@ -114,15 +114,15 @@
   },
   "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
-    "Information Architecture and Prototype.md",
     "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
+    "Information Architecture and Prototype.md",
+    "Semester 5/Human-Computer Interaction/Social Interaction in Interactive Design.md",
     "Zettelkasten Inbox/2022.04.26 130635 +0700.md",
     "Semester 5/Numerical Analysis/Introduction to Numerical Analysis.md",
     "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
     "Zettelkasten Inbox/2022.04.21 141920 +0700.md",
     "README.md",
     "Zettelkasten Inbox/2022.04.19 134131 +0700.md",
-    "Zettelkasten Inbox/2022.04.19 134601 +0700.md",
-    "Zettelkasten Template/Zettelkasten Template.md"
+    "Zettelkasten Inbox/2022.04.19 134601 +0700.md"
   ]
 }
