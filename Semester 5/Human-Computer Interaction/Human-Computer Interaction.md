@@ -13,6 +13,6 @@ Zettelkasten: 220122 051549 +0700
 * [[Establishing Requirements]]
 * [[Persona and Scenario]]
 * #forlater [[Information Architecture and Prototype]]
-* 
+* [[Interactive Design Evaluation]]
 
 Back to [[Semester 5]]
