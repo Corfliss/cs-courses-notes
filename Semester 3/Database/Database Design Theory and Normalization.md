@@ -34,13 +34,33 @@ Zettelkasten: 2022.05.20 09:35:49 +0700
 * Avoid relation that has matching attribute apart from PK and FK
 
 # Functional Dependency
-## Definition:
+## Definition
+### Simple
 * Let A, B be sets of attributes
-* A -> B equals A functionally determines B
+* A → B equals A functionally determines B
 * Whenever two tuples agree on A then they agree on B.
 
-## Another Definition
+### Advanced
+* Given attribute sets A={A1,...,Am} and B = {B1,...,Bn} in R,
+* The functional dependency A → B on R holds if for any ti ,tj in R:
+* if ti[A1] = tj[A1] AND ti[A2]=tj[A2] AND ... AND ti [Am] = tj [Am] :
+	* ti[B1] = tj[B1] AND ti [B2]=tj [B2] AND ... AND ti[Bn] = tj [Bn]
 
+## Determining Functional Dependency Using Armstrong's Rules:
+### Inference Rules
+1. Reflexive: If {X ⊇ Y} then X → Y
+2. Augmentation: If {X → Y} |= XZ → YZ
+3. Transitive: If {X→Y, Y→Z} |= X → Z
+
+### Derived Inference Rule
+1. Decomposition: If {X→ YZ} |= X → Y
+2. Additive (Union): If {X→ Y, X→ Z} |= X → YZ
+3. Pseudotransitive: If {X→ Y, WY→ Z} |= WX → Z
+
+### Example
+1. {Name} → {Color}
+2. {Category} → {Department}
+3. {Color, Category} → {Price}
 # Normalization Based on Primary Key
 # General Normal Form
 # Functional Dependency
