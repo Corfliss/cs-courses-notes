@@ -63,7 +63,6 @@ Zettelkasten: 2022.05.09 08:48:20 +0700
 * Controlled settings to simulate system usage
 * Data obtained used for design error on design or user difficulty
 * Questionnaire filling can be added to the testing
-# Field Study
 
 # Additional Info
 ## Heatmap
