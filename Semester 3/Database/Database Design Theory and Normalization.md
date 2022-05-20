@@ -58,9 +58,20 @@ Zettelkasten: 2022.05.20 09:35:49 +0700
 3. Pseudotransitive: If {X→ Y, WY→ Z} |= WX → Z
 
 ### Example
+#### Provided FDs
 1. {Name} → {Color}
 2. {Category} → {Department}
 3. {Color, Category} → {Price}
+
+#### Inferred FDs and rule used
+1. {Name, Category} → {Name} | Reflexive
+2. {Name, Category} → {Color} | Transitive
+3. {Name, Category} → {Category} | Reflexive
+4. {Name, Category → {Color, Category} | Union
+5. {Name, Category} -> {Price} | Transitive
+
+## Closure (Penutup)
+
 # Normalization Based on Primary Key
 # General Normal Form
 # Functional Dependency
