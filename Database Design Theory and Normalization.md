@@ -34,6 +34,13 @@ Zettelkasten: 2022.05.20 09:35:49 +0700
 * Avoid relation that has matching attribute apart from PK and FK
 
 # Functional Dependency
+## Definition:
+* Let A, B be sets of attributes
+* A -> B equals A functionally determines B
+* Whenever two tuples agree on A then they agree on B.
+
+## Another Definition
+
 # Normalization Based on Primary Key
 # General Normal Form
 # Functional Dependency
