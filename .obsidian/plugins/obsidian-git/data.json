@@ -3,7 +3,7 @@
   "autoCommitMessage": "{{numFiles}} files backup on {{date}}",
   "commitDateFormat": "YYYY.MM.DD HH:mm:ss",
   "autoSaveInterval": 5,
-  "autoPullInterval": 0,
+  "autoPullInterval": 5,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,

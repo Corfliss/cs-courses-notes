@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ce2385a3dfe251",
+        "id": "69149aae99c2d356",
         "type": "split",
         "children": [
           {
             "id": "c2f1eca9251178f7",
             "type": "leaf",
-            "dimension": 19.047619047619047,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interactive Design Evaluation.md",
+                "file": "Database Design Theory and Normalization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -22,9 +21,8 @@
             }
           },
           {
-            "id": "e90d3fa7494e2488",
+            "id": "cec99c150d66bebc",
             "type": "leaf",
-            "dimension": 80.95238095238095,
             "state": {
               "type": "mindmap",
               "state": {}
@@ -68,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5e599468ba3e2195",
@@ -88,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 195
   },
   "right": {
     "id": "2f021992ae026c8e",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interactive Design Evaluation.md"
+                "file": "Database Design Theory and Normalization.md"
               }
             }
           }
@@ -117,15 +114,15 @@
   },
   "active": "c2f1eca9251178f7",
   "lastOpenFiles": [
+    "Database Design Theory and Normalization.md",
+    "Semester 3/Database/Database.md",
+    "Semester 3/Database/Introduction to Database.md",
+    "Semester 3/Database/SQL - Data Definition.md",
+    "Semester 3/Database/Basic SQL Query.md",
+    "Semester 3/Database/Database Modeling with ER.md",
+    "Semester 3/Database/Database Concept and Architecture.md",
+    "Semester 4/Computer Networks/Computer Networks.md",
     "Interactive Design Evaluation.md",
-    "Semester 5/Human-Computer Interaction/Interactive Design Process.md",
-    "Semester 5/Human-Computer Interaction/Analysis, Interpretation, and Data Presentation.md",
-    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
-    "Information Architecture and Prototype.md",
-    "Semester 5/Human-Computer Interaction/Social Interaction in Interactive Design.md",
-    "Zettelkasten Inbox/2022.04.26 130635 +0700.md",
-    "Semester 5/Numerical Analysis/Introduction to Numerical Analysis.md",
-    "Semester 5/Human-Computer Interaction/Persona and Scenario.md",
-    "Zettelkasten Inbox/2022.04.21 141920 +0700.md"
+    "Semester 5/Human-Computer Interaction/Interactive Design Process.md"
   ]
 }
