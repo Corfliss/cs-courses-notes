@@ -26,7 +26,7 @@ Zettelkasten: 2022.05.20 09:35:49 +0700
 * Relations should be designed with less NULL.
 
 ## Guide 4: Regarding Spurious Tuple
-* *
+* 
 # Functional Dependency
 # Normalization Based on Primary Key
 # General Normal Form
