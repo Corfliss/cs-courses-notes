@@ -26,7 +26,13 @@ Zettelkasten: 2022.05.20 09:35:49 +0700
 * Relations should be designed with less NULL.
 
 ## Guide 4: Regarding Spurious Tuple
-* 
+* Sometimes when decomposing relation or joining it there are tow things:
+	* Will the decomposition makes the data gone?
+	* Will the joining makes data overload (that doesn't exists)?
+* Relation should be designed to fulfill lossless join condition
+* No spurious tuples that is a result of natural join relation
+* Avoid relation that has matching attribute apart from PK and FK
+
 # Functional Dependency
 # Normalization Based on Primary Key
 # General Normal Form
