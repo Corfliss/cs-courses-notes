@@ -68,10 +68,45 @@ Zettelkasten: 2022.05.20 09:35:49 +0700
 2. {Name, Category} → {Color} | Transitive
 3. {Name, Category} → {Category} | Reflexive
 4. {Name, Category → {Color, Category} | Union
-5. {Name, Category} -> {Price} | Transitive
+5. {Name, Category} → {Price} | Transitive
 
-## Closure (Penutup)
+## Closure
+* Closure of functional dependency set F is a set of F+ that is contained with F and every FD that can derived from F.
+* Closure of X attribute set that is related with F is the set of X+ that is contained with all attributes defined functionally by X
+
+### Closure Algorithm
+```
+Start with Closure = A.
+Until closure doesn't change do:
+	if A1.A2,... An → B is in C and
+	A1, A2,... An are all in the closure and B is not in closure.
+	then
+		add B to closure
+```
+
+### Example
+#### Example Given
+F = 
+{
+	SSN → ENAME,
+	PNUMBER → {PNAME, PLOCATION}
+	{SSN, PNUMBER} → HOURS
+}
+#### Example Result
+*  {SSN}+ = {SSN, ENAME}  
+*  {PNUMBER}+ = {PNUMBER, PNAME, PLOCATION }  
+*  {SSN, PNUMBER}+ = {SSN, PNUMBER, ENAME, PNAME, PLOCATION, HOURS}
+
+### Interpreting Closure Set
+* Things equivalent with {SSN} + = {SSN, ENAME}
+	* SSN → ENAME
+	* SSN → SSN
+	* SSN → SSN, ENAME
 
 # Normalization Based on Primary Key
+* Normalization definition: Decomposition process by making "bad" relation by separating the attributes to make few relations.
+* Normal form definition: condition (using FD and key) that determines whether a relation schema fulfill certain criteria
+## Criteria of Normal Form
+![[Normal Form Criteria.png]]
 # General Normal Form
 # Functional Dependency
