@@ -11,9 +11,12 @@
             "id": "4d90eba19c4b08dd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachment/Database/Normal Form Criteria.png"
+                "file": "Semester 4/Computer Networks/Computer Networks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -98,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Database/Normal Form Criteria.png"
+                "file": "Semester 4/Computer Networks/Computer Networks.md"
               }
             }
           }
@@ -111,6 +114,7 @@
   },
   "active": "4d90eba19c4b08dd",
   "lastOpenFiles": [
+    "Semester 4/Computer Networks/Computer Networks.md",
     "Attachment/Database/Normal Form Criteria.png",
     "Semester 3/Database/Database Design Theory and Normalization.md",
     "Zettelkasten Template/Zettelkasten Template.md",
@@ -119,7 +123,6 @@
     "Semester 3/Database/Database Modeling with ER.md",
     "Semester 3/Database/Introduction to Database.md",
     "Semester 3/Database/SQL - Data Definition.md",
-    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md",
-    "Semester 5/Human-Computer Interaction/Interactive Design Evaluation.md"
+    "Semester 5/Human-Computer Interaction/Human-Computer Interaction.md"
   ]
 }
