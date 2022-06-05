@@ -50,7 +50,7 @@ In addition, software engineering will only cover about the requirements, analys
 	* E.g. CPU, GPU, memory, network, disks
 * Allows running >= 1 virtual computer (or machine) on a host
 * Each VM specs can be customized
-* 
+
 ## OS-level Virtualization
 * OS is also responsible for allocating resources for the processes
 * You can learn more on [[Operating System]]
