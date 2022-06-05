@@ -17,7 +17,7 @@ In addition, software engineering will only cover about the requirements, analys
 ## Example
 * Deploying Python web app
 	* Setup virtual machine
-	* Install git, Pythoon, reverse proxy (e.g. nginx)
+	* Install git, Python, reverse proxy (e.g. nginx)
 	* Get source code of the application (which means is common in Python-based app)
 		* If you are using language that involves compilation (e.g Java) then you need to get the runnable executable (e.g JAR file)
 	* Configure reverse proxy to direct requests to the app server 
@@ -31,11 +31,11 @@ In addition, software engineering will only cover about the requirements, analys
 * App can have different dependencies
 * Example,  An app requires Python to 3.5 due to certain library.
 
-### Environemnt Parity
+### Environment Parity
 * What is work on one machine might not work on the other
 
 ### Vertical Scaling
-* The app mst be shut down if we want to upsize/downsize the environment
+* The app must be shut down if we want to upsize/downsize the environment
 
 ### Horizontal Scaling
 * Prone to error if done manually
