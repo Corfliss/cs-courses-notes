@@ -6,5 +6,5 @@ Zettelkasten: 170122 152033 +0700
 * [[Introduction to Computers and Programming]]
 * [[Introduction to Python]]
 * [[Data Types in Python]]
-
+* [[Imperative Programming]]
 Back to [[Semester 1]]
