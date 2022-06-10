@@ -2,7 +2,7 @@
 Zettelkasten: 230122 091252 +0700
 ---
 # What is Programming?
-There are a lot of definition whe it comes to programming. But to make everything simpler, let's make an analogy. Imagine when you have a friend who can only speaks Mandarin only. While at the same time, you can only speak English. Now, you need an intepreter that makes English understandable to the Mandarin person so that the action of that person can be executed. [^1]
+There are a lot of definition the it comes to programming. But to make everything simpler, let's make an analogy. Imagine when you have a friend who can only speaks Mandarin only. While at the same time, you can only speak English. Now, you need an interpreter that makes English understandable to the Mandarin person so that the action of that person can be executed. [^1]
 
 Now, programming is basically the same except this friend is a computer. Although the computer can do many incredible things, the truth is the computer is smart because we gave it sets of instruction. To conclude, programming is the process of giving machines a set of instructions that describe how a program should be carried out. [^2]
 

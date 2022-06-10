@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "f7859757ad775f8d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "6b2a8f7645764768",
+        "type": "split",
+        "children": [
+          {
+            "id": "f7859757ad775f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 1/Programming Foundation 1/Data Types in Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bf90f25212ba95f",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Programming Foundation 1/Programming Foundation 1.md"
+                "file": "Semester 1/Programming Foundation 1/Data Types in Python.md"
               }
             }
           }
@@ -99,15 +114,15 @@
   },
   "active": "f7859757ad775f8d",
   "lastOpenFiles": [
-    "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
     "Semester 1/Programming Foundation 1/Data Types in Python.md",
-    "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
-    "Semester 1/Programming Foundation 1/Introduction to Computers and Programming.md",
+    "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
     "Semester 1/Programming Foundation 1/Introduction to Python.md",
+    "Semester 1/Programming Foundation 1/Introduction to Computers and Programming.md",
+    "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
+    "Semester 1/Semester 1.md",
+    "README.md",
     "Semester 4/Advanced Programming/Advanced Programming.md",
     "Semester 4/Advanced Programming/Concurrent Programming Model and Issues.md",
-    "Semester 4/Advanced Programming/From Traditional to Container.md",
-    "Semester 4/Advanced Programming/Introduction to Advanced Programming.md",
-    "Semester 4/Advanced Programming/Introduction to Design Pattern on Advanced Programming.md"
+    "Semester 4/Advanced Programming/From Traditional to Container.md"
   ]
 }
