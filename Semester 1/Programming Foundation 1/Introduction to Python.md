@@ -27,10 +27,9 @@ sum = int1 + int2
 print("The sum is " + sum)
 ```
 
-This is basically an addition program. In here, the program will ask for an input with a request message twice. Then store it in a variable called str1 and str2 respectively. Then, since the variable is a string type, you will find in step 2 another variable turns a string into an integer, which later summed up in step 3 wih the variable sum. Lastly, to print it in the display using combination of "The sum is" and the number added.
+This is basically an addition program. In here, the program will ask for an input with a request message twice. Then store it in a variable called str1 and str2 respectively. Then, since the variable is a string type, you will find in step 2 another variable turns a string into an integer, which later summed up in step 3 with the variable sum. Lastly, to print it in the display using combination of "The sum is" and the number added.
 
 **Why Python?**
-In short, again: It has simple and familiar snytaxes. Perfect for beginners.
+In short, again: It has simple and familiar syntaxes. Perfect for beginners. So for now, this course notes will be using Python a lot.
 
-#ongoing 
 Back to [[Programming Foundation 1]]

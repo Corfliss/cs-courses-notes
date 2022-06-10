@@ -4,7 +4,7 @@ Zettelkasten: 170122 152152 +0700
 # Introduction
 This course is intended to teach about the basic concept of programming using Python programming language.
 
-# Contents
+# Planned Contents
 * Introduction to computers and programming
 * Data types
 * Imperative programming
