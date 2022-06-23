@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
+                "file": "Imperative Programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md"
+                "file": "Imperative Programming.md"
               }
             }
           }
@@ -114,10 +114,10 @@
   },
   "active": "f7859757ad775f8d",
   "lastOpenFiles": [
-    "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
-    "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
     "Imperative Programming.md",
+    "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
     "Semester 1/Programming Foundation 1/Data Types in Python.md",
+    "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
     "Semester 1/Programming Foundation 1/Introduction to Python.md",
     "Semester 1/Programming Foundation 1/Introduction to Computers and Programming.md",
     "Semester 1/Semester 1.md",
