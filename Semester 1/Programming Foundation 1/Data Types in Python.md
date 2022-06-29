@@ -29,3 +29,5 @@ There are a lot of resources in the internet that helps with the understanding o
 * https://www.pythonforbeginners.com/data-types/complex-numbers-in-python
 * https://stackoverflow.com/questions/11142397/does-python-have-an-immutable-list
 * https://betapython.com/set-data-type-in-python/
+
+Back to [[Programming Foundation 1]]
