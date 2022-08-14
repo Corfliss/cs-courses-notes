@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "1340217baba36715",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
+        "id": "4e3b1b2e13763326",
+        "type": "split",
+        "children": [
+          {
+            "id": "1340217baba36715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e60d970273e8f5b4",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -42,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20220520114033.png",
+                "query": "human computer interaction",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -51,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c46d18e51b3e0c56",
@@ -106,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Programming Foundation 1/Programming Foundation 1.md"
+                "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md"
               }
             }
           }
@@ -119,6 +135,7 @@
   },
   "active": "1340217baba36715",
   "lastOpenFiles": [
+    "Semester 5/Human-Computer Interaction/Basic of Interactive Design.md",
     "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
     "Python Syntaxes.md",
     "Zettelkasten Inbox/2022.06.29 230051 +0700.md",
@@ -127,7 +144,6 @@
     "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
     "Imperative Programming.md",
     "README.md",
-    "Base Operations/To Do List.md",
-    "Semester 1/Programming Foundation 1/Introduction to Computers and Programming.md"
+    "Base Operations/To Do List.md"
   ]
 }
