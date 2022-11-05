@@ -2,5 +2,6 @@
   "baseFontSize": 22,
   "cssTheme": "Minimal",
   "translucency": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": ""
 }

@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "7420b12f184e086d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e3b1b2e13763326",
+        "type": "split",
+        "children": [
+          {
+            "id": "4c36fd605eb1d344",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1340217baba36715",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "92b55f3d9a03d1cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e60d970273e8f5b4",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41915be525c8fef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "702fba9f9c972852",
+        "type": "tabs",
+        "dimension": 36.2669245647969,
+        "children": [
+          {
+            "id": "fe5d6cd14a7884d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec710fb1bd6a9391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "human computer interaction",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c46d18e51b3e0c56",
+        "type": "tabs",
+        "dimension": 26.88588007736944,
+        "children": [
+          {
+            "id": "f7859757ad775f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Operations/To Do List.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e599468ba3e2195",
+        "type": "tabs",
+        "dimension": 36.847195357833655,
+        "children": [
+          {
+            "id": "fbab6dfafba2bb89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "right": {
+    "id": "2f021992ae026c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4fce75d22df489a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5597ff167e9ee57b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe5d6cd14a7884d4",
+  "lastOpenFiles": [
+    "Semester 5/Human-Computer Interaction/Basic of Interactive Design.md",
+    "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
+    "Python Syntaxes.md",
+    "Zettelkasten Inbox/2022.06.29 230051 +0700.md",
+    "Semester 1/Programming Foundation 1/Data Types in Python.md",
+    "Semester 1/Programming Foundation 1/Introduction to Python.md",
+    "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
+    "Imperative Programming.md",
+    "README.md",
+    "Base Operations/To Do List.md"
+  ]
+}
