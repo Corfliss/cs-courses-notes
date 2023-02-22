@@ -134,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Semester 5/Human-Computer Interaction/Establishing Requirements.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +144,21 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe5d6cd14a7884d4",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "fbab6dfafba2bb89",
   "lastOpenFiles": [
+    "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
     "Semester 5/Human-Computer Interaction/Basic of Interactive Design.md",
     "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
     "Python Syntaxes.md",
@@ -156,7 +167,6 @@
     "Semester 1/Programming Foundation 1/Introduction to Python.md",
     "Semester 1/Programming Foundation 1/Introduction to Programming Foundation 1.md",
     "Imperative Programming.md",
-    "README.md",
-    "Base Operations/To Do List.md"
+    "README.md"
   ]
 }
