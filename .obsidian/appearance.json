@@ -1,7 +1,9 @@
 {
-  "baseFontSize": 22,
+  "baseFontSize": 16,
   "cssTheme": "Minimal",
   "translucency": true,
   "baseFontSizeAction": true,
-  "accentColor": ""
+  "accentColor": "#7db7e3",
+  "interfaceFontFamily": "Montserrat",
+  "textFontFamily": "Montserrat"
 }
