@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 225.5
   },
   "right": {
     "id": "2f021992ae026c8e",
@@ -136,14 +136,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Semester 3/Database/Database.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +159,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fbab6dfafba2bb89",
+  "active": "1340217baba36715",
   "lastOpenFiles": [
-    "README.md",
+    "Base Operations/Log.md",
+    "Base Operations/To Do List.md",
+    "Semester 3/Database/Database Concept and Architecture.md",
     "Semester 3/Database/Database.md",
     "Semester 3/Database/Introduction to Database.md",
+    "README.md",
     "Semester 3/Database/Database Modeling with ER.md",
-    "Semester 3/Database/Database Concept and Architecture.md",
     "Semester 3/Database/Basic SQL Query.md",
     "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
-    "Semester 5/Human-Computer Interaction/Basic of Interactive Design.md",
-    "Semester 1/Programming Foundation 1/Programming Foundation 1.md",
-    "Python Syntaxes.md"
+    "Semester 5/Human-Computer Interaction/Basic of Interactive Design.md"
   ]
 }
