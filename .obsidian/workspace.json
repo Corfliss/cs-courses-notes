@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Semester 4/Computer Networks/Principles of The Application Layer.md",
+                    "file": "Semester 4/Computer Networks/Computer Networks.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/Computer Networks/Principles of The Application Layer.md"
+                "file": "Semester 4/Computer Networks/Computer Networks.md"
               }
             }
           }
@@ -161,11 +161,13 @@
   },
   "active": "1340217baba36715",
   "lastOpenFiles": [
+    "Semester 4/Computer Networks/Socket Programming.md",
     "Semester 4/Computer Networks/Computer Networks.md",
+    "Semester 4/Computer Networks/Principles of The Application Layer.md",
     "Semester 4/Computer Networks/Introduction to Computer Networks.md",
-    "Semester 4/Computer Networks/Email.md",
     "Semester 4/Computer Networks/Domain Name System (DNS).md",
     "Semester 4/Computer Networks/Connectionless Transport - UDP.md",
+    "Semester 4/Computer Networks/Email.md",
     "Semester 3/Database/Database.md",
     "Base Operations/Log.md",
     "Base Operations/To Do List.md",
