@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Semester 4/Computer Networks/Computer Networks.md",
+                    "file": "Semester 3/Database/Database.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/Computer Networks/Computer Networks.md"
+                "file": "Semester 3/Database/Database.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "1340217baba36715",
   "lastOpenFiles": [
-    "Semester 4/Computer Networks/Socket Programming.md",
+    "Semester 3/Database/Introduction to Database.md",
+    "Semester 3/Database/Basic SQL Query.md",
     "Semester 4/Computer Networks/Computer Networks.md",
+    "Semester 4/Computer Networks/Socket Programming.md",
     "Semester 4/Computer Networks/Principles of The Application Layer.md",
     "Semester 4/Computer Networks/Introduction to Computer Networks.md",
     "Semester 4/Computer Networks/Domain Name System (DNS).md",
@@ -172,10 +174,8 @@
     "Base Operations/Log.md",
     "Base Operations/To Do List.md",
     "Semester 3/Database/Database Concept and Architecture.md",
-    "Semester 3/Database/Introduction to Database.md",
     "README.md",
     "Semester 3/Database/Database Modeling with ER.md",
-    "Semester 3/Database/Basic SQL Query.md",
     "Semester 5/Human-Computer Interaction/Establishing Requirements.md",
     "Semester 5/Human-Computer Interaction/Basic of Interactive Design.md"
   ]
