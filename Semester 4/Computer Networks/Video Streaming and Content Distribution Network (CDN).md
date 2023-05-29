@@ -49,7 +49,7 @@ Zettelkasten: 260322 222443 +0700
 * How to transmit it back with minimum delay.
 
 ##  Playout Buffering
-* 
+* Using play
 # DASH (Dynamic Client-Driven Streaming)
 # CDN and Example
 
