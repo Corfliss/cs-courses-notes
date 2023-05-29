@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Semester 4/Computer Networks/Video Streaming and Content Distribution Network (CDN).md",
+                    "file": "Semester 4/Computer Networks/Socket Programming.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human computer interaction",
+                "query": "tag:#ongoing",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c46d18e51b3e0c56",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/Computer Networks/Video Streaming and Content Distribution Network (CDN).md"
+                "file": "Semester 4/Computer Networks/Socket Programming.md"
               }
             }
           }

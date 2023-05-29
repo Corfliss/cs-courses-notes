@@ -49,9 +49,37 @@ Zettelkasten: 260322 222443 +0700
 * How to transmit it back with minimum delay.
 
 ##  Playout Buffering
-* Using play
-# DASH (Dynamic Client-Driven Streaming)
+* Using buffering time on the client-side
+* To fix the jittery video transmission
+* The buffering time may vary
+
+# DASH (Dynamic, Adaptive Streaming over HTTP)
+## Server-side
+* Divides video file into multiple chunks
+* Each chunk encoded at multiple different rates
+* Different rate encodings stored in different files
+* Manifest file: provides URLs for different chunks
+
+## Client-side
+* Periodically estimates server-to-client bandwidth
+* Consulting manifest, requests one chunk at a time
+	* Chooses maximum coding rate sustainable given current bandwidth
+	* Can choose different coding rates at different points in time (depending on available bandwidth at time), and from different servers
+* Client determines
+	* When to request chunk
+	* What encoding rate
+	* Where to request chunk (can request from URL server that is "close" to client or has high available bandwidth)
+
 # CDN and Example
+## Challenge: how to stream content (selected from millions of videos to hundreds of thousands of simultaneous users)?
+* Option 1: single, large "mega-server"
+	* Single point of failure
+	* Point of network congestion
+	* Long (and possibly congested) path to distant clients
+	* Cons: doesn't scale
+* Options 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+	* Enter deep: push CDN servers deep into many access networks, close to users.
+	* Bring home: smaller number (10's) of larger clusters in POPs near access nets
 
 # Reference
 [Jim Kurose's Video About Video Streaming and Content Distribution Network](https://www.youtube.com/watch?v=ak5bbb-xHLI)
