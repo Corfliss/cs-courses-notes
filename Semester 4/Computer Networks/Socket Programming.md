@@ -5,7 +5,7 @@ Zettelkasten: 2022.04.05 07:51:00 +0700
 * Socket: door between application process and end-to-end transport protocol
 
 # UDP Sockets
-* Unreliable datgram
+* Unreliable datagram
 # TCP Sockets
 * Reliable, byte stream-oriented
 

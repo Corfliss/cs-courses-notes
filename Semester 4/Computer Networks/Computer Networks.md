@@ -22,7 +22,7 @@ Zettelkasten: 220122 033747 +0700
 * [[Domain Name System (DNS)]]
 * [[Peer to Peer (P2P)]]
 * [[Video Streaming and Content Distribution Network (CDN)]]
-* #forlater [[Socket Programming]]
+* #ongoing  [[Socket Programming]]
 
 ## Chapter 3: The Transport Layer
 * [[Introduction to Transport Layer Services]]

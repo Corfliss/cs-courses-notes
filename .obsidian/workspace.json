@@ -4,33 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3b1b2e13763326",
+        "id": "3e486423aa2e890c",
         "type": "split",
         "children": [
           {
-            "id": "4c36fd605eb1d344",
+            "id": "92b55f3d9a03d1cc",
             "type": "tabs",
-            "dimension": 54.26716141001855,
             "children": [
               {
-                "id": "1340217baba36715",
+                "id": "f264d34f83061c1c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Semester 4/Computer Networks/Socket Programming.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
           },
           {
-            "id": "92b55f3d9a03d1cc",
+            "id": "bfd1abc9e75e8854",
             "type": "tabs",
-            "dimension": 45.73283858998145,
             "children": [
               {
                 "id": "e60d970273e8f5b4",
@@ -145,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Semester 4/Computer Networks/Socket Programming.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,11 +159,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1340217baba36715",
+  "active": "f264d34f83061c1c",
   "lastOpenFiles": [
-    "Semester 4/Computer Networks/Computer Networks.md",
-    "Semester 4/Computer Networks/Video Streaming and Content Distribution Network (CDN).md",
     "Base Operations/To Do List.md",
+    "Semester 4/Computer Networks/Computer Networks.md",
+    "Semester 4/Computer Networks/Socket Programming.md",
+    "Semester 4/Computer Networks/Video Streaming and Content Distribution Network (CDN).md",
     "Semester 3/Database/Database.md",
     "Semester 3/Database/Basic SQL Query.md",
     "Semester 3/Database/Introduction to Database.md",
@@ -186,7 +178,6 @@
     "Semester 4/Semester 4.md",
     "README.md",
     "Semester 3/Semester 3.md",
-    "Semester 4/Computer Networks/Socket Programming.md",
     "Semester 4/Computer Networks/Principles of The Application Layer.md",
     "Semester 4/Computer Networks/Introduction to Computer Networks.md",
     "Semester 4/Computer Networks/Domain Name System (DNS).md",
