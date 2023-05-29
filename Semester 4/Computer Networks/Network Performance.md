@@ -53,3 +53,5 @@ Zettelkasten: 140222 130434 +0700
 	* Average: Rate over longer period of time
 	* With multiple throughput passed, the maximum rate is the least throughput flow.
 	* Above is called bottleneck link.
+
+# Reference
